@@ -1,0 +1,11 @@
+Reto procesamiento de texto
+
+Eres un desarrollador que trabaja en una aplicación de procesamiento de texto. El cliente necesita un programa en Java que calcule estadísticas simples sobre las palabras en un texto.
+
+Escribe un programa en Java que tome un texto como entrada y calcule las siguientes estadísticas sobre las palabras:
+
+Número total de palabras en el texto.
+
+Número de palabras únicas.
+
+Longitud promedio de las palabras.
