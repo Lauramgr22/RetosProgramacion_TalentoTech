@@ -1,0 +1,15 @@
+Reto programa de lealtad
+
+La tienda XYZ store desea mejorar la experiencia de sus clientes implementando un programa de lealtad que ofrezca descuentos progresivos basados en la cantidad de compras anteriores realizadas por un cliente. Como desarrollador de software, te han encargado la tarea de crear una calculadora de descuentos que tome en cuenta el historial de compras y el monto total de una compra actual para determinar el descuento aplicado.
+
+Condiciones
+
+1. El programa debe solicitar al usuario el numero de compras anteriores que ha realizado en la tienda. Este número debe ser un valor entero no negativo.
+
+2. Pregunta al usuario el monto total de la compra actual. Este monto puede ser un valor decimal que represente el costo total de los productos adquiridos.
+
+3. Implementa un método llamado calcularDescuento que tome como parámetros el número de compras anteriores y el monto total de la compra actual. Este método deberá calcular el descuento aplicado según las siguientes reglas:
+
+Un descuento base del 5%.
+Un aumento adicional de 2% por cada compra anterior, con un límite máximo del 15% de descuento adicional.
+4. Muestra al usuario el descuento aplicado, desglosando el descuento base y el descuento adicional por compras anteriores.
