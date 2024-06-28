@@ -1,0 +1,5 @@
+Reto análisis de alturas
+
+En el contexto de un entorno educativo, surge la necesidad de realizar un análisis detallado de las alturas de los alumnos de una clase. Esta tarea se vuelve más eficiente y estructurada mediante el uso de la programación en Java y la implementación de un ArrayList.
+
+Usted hace parte del equipo de desarrollo encargado del análisis de los estudiantes, su objetivo principal es desarrollar un software para calcular la altura media de los estudiantes, así como identificar cuántos de ellos superan esta media y cuántos la registran por debajo.
